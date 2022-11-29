@@ -1,4 +1,4 @@
 #!/usr/bin/python3
 number = 3.14159
 fNum = "{:.2f}".format(number)
-print(fNum)
+print(f"{fNum}")
