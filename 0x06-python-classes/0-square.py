@@ -4,4 +4,3 @@
 
 class Square:
     """a class Square"""
-    pass
